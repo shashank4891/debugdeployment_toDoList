@@ -3,6 +3,9 @@
 
 This is a simple ToDo List web application built using HTML, CSS, and vanilla JavaScript. It allows users to add tasks, mark tasks as completed, delete individual tasks, delete all tasks, and delete only completed tasks. Additionally, it provides filters to view all tasks, only remaining tasks, and only completed tasks.
 
+## Hosted Link
+
+https://shashank4891.github.io/debugdeployment_toDoList/
 
 ## Features
 
